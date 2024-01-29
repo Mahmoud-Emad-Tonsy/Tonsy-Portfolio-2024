@@ -7,10 +7,30 @@ import { BackToTop } from './components'
 import ScrollToTop from './utils/ScrollToTop'
 
 import './App.css'
+import analytics from "@vercel/analytics";
 
+// Initialize the package with your project ID
+analytics("31e4sn4hb");
 function App() {
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
   return (
     <div className="app">

@@ -17,10 +17,7 @@ function Main() {
             <Education />
             <Skills />
             <Experience />
-            
-            <Services />
             <Testimonials />
-          
             <Contacts />
             <Footer />
         </div>
