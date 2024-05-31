@@ -10,7 +10,7 @@ export const experienceData = [
     id: 2,
     company: "Al Tawasol Company",
     jobtitle: "Frontend Developer",
-    startYear: "2-2023",
+    startYear: "1-2023",
     endYear: "7-2023",
   },
   //   {

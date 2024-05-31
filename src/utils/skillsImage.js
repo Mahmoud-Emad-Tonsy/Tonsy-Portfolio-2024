@@ -1,6 +1,6 @@
 // import gcp from '../assets/svg/skills/gcp.svg'
 import html from '../assets/svg/skills/html.svg'
-// import photoshop from '../assets/svg/skills/photoshop.svg'
+import photoshop from '../assets/svg/skills/photoshop.svg'
 // import illustrator from '../assets/svg/skills/illustrator.svg'
 import docker from '../assets/svg/skills/docker.svg'
 import adobeXd from '../assets/svg/skills/adobe-xd.svg'
@@ -74,18 +74,20 @@ import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 import reactnative from "../assets/svg/skills/react-native.svg";
 import canva from '../assets/svg/skills/canva.svg'
-
+import nodejs from "../assets/svg/skills/nodejs.svg"
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
       case "html":
         return html;
-      case "reactnative":
+      case "react native":
         return reactnative;
 
       case "docker":
         return docker;
+      case "node js":
+        return nodejs;
 
       case "adobe xd":
         return adobeXd;
@@ -220,8 +222,9 @@ export const skillsImage = (skill) => {
         return unity;
       case "wolframalpha":
         return wolframalpha;
-      case "canva":
-        return canva;
+      case "photoshop":
+        return photoshop;
+
       default:
         break;
     }

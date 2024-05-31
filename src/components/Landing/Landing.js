@@ -142,7 +142,7 @@ function Landing() {
                 {headerData.resumePdf && (
                   <a
                     href={headerData.resumePdf}
-                    download="Mahmoud_Tonsy_Cv(2023)"
+                    download="Mahmoud Emad Tonsy (FrontEnd Developer-Cv-5-2024)"
                     target="_blank"
                     rel="noreferrer">
                     <Button className={classes.resumeBtn}>Download CV</Button>

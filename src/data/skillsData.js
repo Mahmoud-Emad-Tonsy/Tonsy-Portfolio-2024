@@ -18,6 +18,10 @@
    "Firebase",
    "MaterialUI",
    "Strapi",
+   "Wordpress",
+   "Next JS",
+   "Node JS",
+   "Photoshop",
  ];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

@@ -149,7 +149,6 @@ const handleContactForm = async (e) => {
 
         setSuccess(true);
         setErrMsg("");
-
         setName("");
         setEmail("");
         setMessage("");
