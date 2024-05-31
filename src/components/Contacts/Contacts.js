@@ -142,7 +142,7 @@ const handleContactForm = async (e) => {
 
       try {
               const response = await axios.post(
-                "http://localhost:3001/send-email",
+                `${process.env.REACT_APP_API}/send-email`,
                 responseData
               );
         console.log("success", response.data);
