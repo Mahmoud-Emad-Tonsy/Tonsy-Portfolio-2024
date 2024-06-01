@@ -1,8 +1,8 @@
 export const experienceData = [
   {
-    id: 3,
+    id: 1,
     company: "BE DO Innovating Company",
-    jobtitle: "MERN Stack Developer",
+    jobtitle: "Frontend Developer",
     startYear: "8-2023",
     endYear: "Present",
   },
