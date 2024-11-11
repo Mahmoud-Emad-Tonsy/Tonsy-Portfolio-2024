@@ -8,7 +8,7 @@ export const experienceData = [
   },
   {
     id: 2,
-    company: "BE DO Innovating Company",
+    company: "BEDO Innovating Company",
     jobtitle: "MERN Stack Developer",
     startYear: "8-2023",
     endYear: "9-2024",
