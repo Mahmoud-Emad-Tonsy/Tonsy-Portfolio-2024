@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/Mahmoud Emad Tonsy (FrontEnd Developer-Cv-6-2024).pdf'
+import resume from '../assets/pdf/Mahmoud Emad Tonsy (FrontEnd Developer-Cv-2024).pdf'
 import landingImg from "../assets/png/ladning1.jpeg"
 export const headerData = {
   name: "Mahmoud Tonsy",
