@@ -16,8 +16,6 @@ function Main() {
             <Education />
             <Skills />
             <Experience />
-           
-            <Testimonials />
             <Contacts />
             <Footer />
         </div>
@@ -27,5 +25,5 @@ function Main() {
 export default Main
 
 {
-  /** <Achievement />  <Projects />   <Blog />*/
+  /** <Achievement />  <Projects />   <Blog />  <Testimonials />*/
 }
